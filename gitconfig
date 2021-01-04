@@ -49,3 +49,5 @@
 [user]
 	email = simcic.stephane@gmail.com
 	name = Stephane Simcic
+[https]
+	proxy = https://<proxy.mycompany>:<port>
